@@ -1,3 +1,5 @@
+# Project available at https://hyperskill.org/projects/69
+
 import random
 
 print('H A N G M A N')
